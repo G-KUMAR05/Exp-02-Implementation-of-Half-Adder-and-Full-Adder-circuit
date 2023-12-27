@@ -75,7 +75,8 @@ endmodule
 
 
 ### TIMING DIAGRAM
-![image](https://github.com/Raji1009/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/89059861/6a11b3c6-dc53-400b-9a3d-5ebf6eac532a)
+![image](https://github.com/DilipDofy/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147223497/ee11c569-c652-4ecd-ba60-982e8db0d341)
+
 
 ### TRUTH TABLE 
 ![image](https://github.com/Raji1009/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/89059861/a2d05afa-0f64-4906-9001-e9deb30f4f65)
