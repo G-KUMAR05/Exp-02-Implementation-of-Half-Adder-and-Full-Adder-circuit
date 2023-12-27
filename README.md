@@ -40,7 +40,8 @@ endmodule
 ```
 
 ### RTL Realization
-![image](https://github.com/Raji1009/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/89059861/e8dfbe0f-ac67-4d75-880d-fd669580be01)
+![image](https://github.com/DilipDofy/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147223497/aaabb709-aad9-477f-9a20-572587eb2a08)
+
 
 ### TIMING DIAGRAM
 ![image](https://github.com/Raji1009/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/89059861/f88fa8e1-6ca1-4499-af96-22670c739216)
