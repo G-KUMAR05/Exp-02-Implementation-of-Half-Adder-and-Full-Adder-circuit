@@ -48,7 +48,7 @@ endmodule
 
 
 ### TRUTH TABLE 
-![image](https://github.com/Raji1009/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/89059861/88535d6e-8915-4be3-bcf7-a3e965081e15)
+![image](https://github.com/DilipDofy/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147223497/843a885a-95f9-4a01-aca9-41cc7999eb94)
 
 
 ### Full Adder
